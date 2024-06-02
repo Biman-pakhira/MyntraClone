@@ -1,0 +1,24 @@
+# Query: home.css
+# ContextLines: 1
+
+4 results - 4 files
+
+bag.html:
+  7      <title>Bag</title>
+  8:     <link rel="stylesheet" href="index.css">
+  9      <link rel="stylesheet" href="nav.css">
+
+index.html:
+  7      <title>Home Page</title>
+  8:     <link rel="stylesheet" href="index.css">
+  9      <link rel="stylesheet" href="nav.css">
+
+men.html:
+  7      <title>Men's Page</title>
+  8:     <link rel="stylesheet" href="index.css">
+  9      <link rel="stylesheet" href="nav.css">
+
+women.html:
+  7      <title>Women's Page</title>
+  8:     <link rel="stylesheet" href="index.css">
+  9      <link rel="stylesheet" href="nav.css">
