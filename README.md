@@ -25,6 +25,8 @@ You can check out a live demo of the project <a href ="https://biman-pakhira.git
 ### SignUp Section
 <img src = "images/SignUp.jpg">
 
+### Bag Section
+<img src = "images/Bag.jpg">
 ## Features
 
 - Responsive design that works on all devices
