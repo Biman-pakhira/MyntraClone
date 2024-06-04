@@ -8,10 +8,7 @@ Welcome to the Myntra Clone project! This project is a front-end replication of 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Demo
 
