@@ -16,9 +16,15 @@ You can check out a live demo of the project <a href ="https://biman-pakhira.git
 
 #Home Section 
 <img src = "images/HomePage.jpg">
-<img src = "images/HomePage1.jpg">
 <img src = "images/HomePage2.jpg">
 <img src = "images/HomePage3.jpg">
+
+#Women Section
+<img src = "images/Women.jpg">
+
+#SignUp Section
+<img src = "images/SignUp.jpg">
+
 ## Features
 
 - Responsive design that works on all devices
