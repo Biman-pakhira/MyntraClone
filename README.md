@@ -14,7 +14,11 @@ Welcome to the Myntra Clone project! This project is a front-end replication of 
 
 You can check out a live demo of the project <a href ="https://biman-pakhira.github.io/MyntraClone/"> here </a>.
 
-
+#Home Section 
+<img src = "images/HomePage.jpg">
+<img src = "images/HomePage1.jpg">
+<img src = "images/HomePage2.jpg">
+<img src = "images/HomePage3.jpg">
 ## Features
 
 - Responsive design that works on all devices
