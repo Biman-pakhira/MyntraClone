@@ -15,7 +15,8 @@ Welcome to the Myntra Clone project! This project is a front-end replication of 
 
 ## Demo
 
-You can check out a live demo of the project [here](#https://biman-pakhira.github.io/MyntraClone/).
+You can check out a live demo of the project <a href ="https://biman-pakhira.github.io/MyntraClone/"> here </a>.
+
 
 ## Features
 
@@ -40,4 +41,4 @@ To get a local copy up and running, follow these steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/myntra-clone.git
+   git clone git@github.com:Biman-pakhira/MyntraClone.git
